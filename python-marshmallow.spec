@@ -1,6 +1,6 @@
 Name:		python-marshmallow
 Version:	4.1.0
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/m/marshmallow/marshmallow-%{version}.tar.gz
 Summary:	A lightweight library for converting complex datatypes to and from native Python datatypes.
 URL:		https://pypi.org/project/marshmallow/
