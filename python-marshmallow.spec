@@ -2,8 +2,8 @@
 
 Name:		python-marshmallow
 Version:	4.2.3
-Release:	1
-Summary:	A lightweight library for converting complex datatypes to and from native Python datatypes.
+Release:	2
+Summary:	A library for converting to and from native Python datatypes
 License:	None
 Group:		Development/Python
 URL:		https://pypi.org/project/marshmallow/
@@ -17,7 +17,8 @@ BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(wheel)
 
 %description
-A lightweight library for converting complex datatypes to and from native Python datatypes.
+A lightweight library for converting complex datatypes to and from native
+Python datatypes.
 
 %files
 %{py_sitedir}/%{module}
