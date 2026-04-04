@@ -1,7 +1,7 @@
 %define module marshmallow
 
 Name:		python-marshmallow
-Version:	4.2.4
+Version:	4.3.0
 Release:	1
 Summary:	A library for converting to and from native Python datatypes
 License:	None
